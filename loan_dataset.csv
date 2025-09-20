@@ -1,0 +1,22 @@
+Loan_ID,ApplicantIncome,CoapplicantIncome,LoanAmount,Loan_Amount_Term,Credit_History,Gender,Married,Dependents,Education,Self_Employed,Property_Area,Loan_Status
+LN0001,17795.0,4000.0,300.0,360.0,0.0,Male,Yes,2,Not Graduate,nan,Semiurban,N
+LN0002,2860.0,0.0,100.0,,,nan,nan,0,Not Graduate,No,Semiurban,N
+LN0003,7390.0,,150.0,180.0,,Male,nan,1,Graduate,Yes,Rural,Y
+LN0004,23575.0,1500.0,250.0,,0.0,Male,No,1,Not Graduate,Yes,Urban,Y
+LN0005,13964.0,4000.0,100.0,,,nan,Yes,3+,Graduate,Yes,Urban,N
+LN0006,13284.0,,250.0,180.0,1.0,nan,nan,nan,Graduate,nan,Rural,Y
+LN0007,24118.0,0.0,,180.0,0.0,nan,No,2,Not Graduate,No,Urban,Y
+LN0008,8265.0,0.0,150.0,180.0,1.0,Male,nan,0,Not Graduate,Yes,Rural,Y
+LN0009,18850.0,2500.0,150.0,180.0,1.0,nan,nan,3+,Not Graduate,Yes,Rural,N
+LN0010,6426.0,2500.0,100.0,180.0,0.0,nan,Yes,nan,Not Graduate,Yes,Semiurban,N
+LN0011,23962.0,1500.0,150.0,,,Male,nan,3+,Not Graduate,nan,Rural,Y
+LN0012,16423.0,,300.0,180.0,1.0,nan,Yes,nan,Not Graduate,nan,Semiurban,N
+LN0013,13363.0,,150.0,360.0,0.0,Male,nan,nan,Not Graduate,No,Urban,N
+LN0014,18023.0,2500.0,250.0,120.0,1.0,Female,No,2,Not Graduate,nan,Urban,N
+LN0015,10322.0,,250.0,180.0,1.0,nan,nan,nan,Graduate,Yes,Urban,N
+LN0016,3685.0,,250.0,180.0,1.0,Female,Yes,3+,Not Graduate,No,Urban,N
+LN0017,2769.0,0.0,250.0,,1.0,Male,Yes,nan,Not Graduate,Yes,Semiurban,Y
+LN0018,4433.0,2500.0,300.0,180.0,,nan,No,2,Graduate,Yes,Urban,N
+LN0019,7311.0,4000.0,200.0,180.0,1.0,Male,nan,2,Not Graduate,nan,Rural,Y
+LN0020,7051.0,2500.0,,180.0,1.0,Female,nan,3+,Graduate,No,Rural,Y
+LN0006,13284.0,,250.0,180.0,1.0,nan,nan,nan,Graduate,nan,Rural,Y
